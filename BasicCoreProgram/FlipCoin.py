@@ -17,4 +17,4 @@ def FlipCoin():
             
             print("Heads Percent: " + str(headPercent))
             print("Tails Percent: " + str(tailPercent))
-    FlipCoin()
+FlipCoin()
