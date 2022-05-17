@@ -6,7 +6,7 @@ def primefactors(n):
     
    for i in range(3,int(math.sqrt(n))+1,2):
      
-      while (n % i == 0):
+        while (n % i == 0):
          print (i)
          n = n / i
     
